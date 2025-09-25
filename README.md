@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Sruthi
+🎓 CS & AI Student at IIIT Chennai  
+💡 Interested in Machine Learning, Networks, and Systems  
+📂 Check out my projects below  
 
-<!--
-**sruthipsnair/sruthipsnair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- Programming: Python, C, Java  
+- AI/ML: TensorFlow, Keras, Pandas, NumPy  
+- Tools: Git, Linux, VSCode  
 
-Here are some ideas to get you started:
+## 📌 Projects
+- [Rock Paper Scissors Classifier](https://github.com/yourusername/rock-paper-scissors)
+- [Custom UNIX Utilities](https://github.com/yourusername/unix-utils)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sruthi-nair-141ab726a/)
+- Email: sruthipsnair27@gmail.com
